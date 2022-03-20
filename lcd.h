@@ -175,7 +175,8 @@
 
 #elif defined(__AVR_AT90S4414__) || defined(__AVR_AT90S8515__) || defined(__AVR_ATmega64__) || \
       defined(__AVR_ATmega8515__)|| defined(__AVR_ATmega103__) || defined(__AVR_ATmega128__) || \
-      defined(__AVR_ATmega161__) || defined(__AVR_ATmega162__)
+      defined(__AVR_ATmega161__) || defined(__AVR_ATmega162__) || defined(__AVR_ATmega1280__) || \
+      defined(__AVR_ATMega1281__) || defined(__AVR_ATMega2560__) || defined(__AVR_ATMega2561__)
 /*
  * memory mapped mode is only supported when the device has an external data memory interface
  */
