@@ -18,6 +18,8 @@
 
 ## Official Website
 
+It seems that this URL's aren't valid any longer
+
 * http://homepage.hispeed.ch/peterfleury/avr-software.html
 * http://tinyurl.com/peterfleury
 
